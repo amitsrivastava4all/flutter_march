@@ -1,0 +1,25 @@
+
+Question
+Input : tHiS iS teST
+Output : This Is Test
+
+
+Question
+Input : Flutter
+Flutter
+Flutte
+Flutt
+Flut
+Flu
+Fl
+F
+
+
+Question
+Input: Flutter is the top most mobile UI toolkit
+t replace capital T
+
+
+Question 
+Input: Flutter is the top most mobile UI toolkit
+Remove duplicate characters
