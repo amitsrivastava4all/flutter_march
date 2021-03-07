@@ -1,0 +1,14 @@
+Flutter SDK Download
+https://flutter.dev/docs/get-started/install
+
+
+Android Studio Download
+https://developer.android.com/studio
+
+
+Dart Setup
+https://www.youtube.com/watch?v=sCmWRxjyuj0
+
+
+VScode Setup
+https://www.youtube.com/watch?v=NXLatQGyBhk
